@@ -1,0 +1,11 @@
+C:\Users\matth_000\Desktop\Coding Stuff\BouncerBot\BouncerBot\bin\Release\netcoreapp2.0\BouncerBot.deps.json
+C:\Users\matth_000\Desktop\Coding Stuff\BouncerBot\BouncerBot\bin\Release\netcoreapp2.0\BouncerBot.runtimeconfig.json
+C:\Users\matth_000\Desktop\Coding Stuff\BouncerBot\BouncerBot\bin\Release\netcoreapp2.0\BouncerBot.runtimeconfig.dev.json
+C:\Users\matth_000\Desktop\Coding Stuff\BouncerBot\BouncerBot\bin\Release\netcoreapp2.0\BouncerBot.dll
+C:\Users\matth_000\Desktop\Coding Stuff\BouncerBot\BouncerBot\bin\Release\netcoreapp2.0\BouncerBot.pdb
+C:\Users\matth_000\Desktop\Coding Stuff\BouncerBot\BouncerBot\obj\Release\netcoreapp2.0\BouncerBot.csprojAssemblyReference.cache
+C:\Users\matth_000\Desktop\Coding Stuff\BouncerBot\BouncerBot\obj\Release\netcoreapp2.0\BouncerBot.csproj.CoreCompileInputs.cache
+C:\Users\matth_000\Desktop\Coding Stuff\BouncerBot\BouncerBot\obj\Release\netcoreapp2.0\BouncerBot.AssemblyInfoInputs.cache
+C:\Users\matth_000\Desktop\Coding Stuff\BouncerBot\BouncerBot\obj\Release\netcoreapp2.0\BouncerBot.AssemblyInfo.cs
+C:\Users\matth_000\Desktop\Coding Stuff\BouncerBot\BouncerBot\obj\Release\netcoreapp2.0\BouncerBot.dll
+C:\Users\matth_000\Desktop\Coding Stuff\BouncerBot\BouncerBot\obj\Release\netcoreapp2.0\BouncerBot.pdb
